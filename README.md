@@ -1,6 +1,6 @@
 <div align = "center">
 
-# Hi 👋, I'm [Vaibhav!](https://github.com/CoderVaibhavD/)
+# Hi 👋, I'm [Vaibhav!](https://github.com/XxCoderVaibhavxX/)
 
 </div>
 
@@ -29,8 +29,8 @@
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderVaibhavD&show_icons=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderVaibhavD&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=XxCoderVaibhavxX&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxCoderVaibhavxX&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
 <div align="center">
