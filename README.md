@@ -1,12 +1,12 @@
 <div align = "center">
 
-# Hi 👋, I'm [Vaibhav!](https://github.com/XxCoderVaibhavxX/)
+# Hi 👋, I'm [Vaibhav!](https://github.com/coderdino/)
 # Subscribe to me on [youtube!](https://www.youtube.com/channel/UC_t1aJFbtux4Fa4HSIeg9tg)
 
 </div>
 
 ## 👀 I’m interested in Game development, badminton, swimming, food-tech and other stuff.
-## 🌱 I’m currently learning Unity and C#
+## 🌱 I’m currently learning Android Development
 ## 📫 How to reach me: Email me at vaibhavdachavaram06@gmail.com
 
 ### Languages/Game Engines that I code/use for projects hosted here: 
@@ -21,10 +21,10 @@
   <br />
   <summary><b>Softwares/Hardware I use to get things done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 7 </li>
-	    <li><b>PC: </b> Zoomstorm 7010 Series PC</li>
+  	    <li><b>OS:</b> Windows 11 Home </li>
+	    <li><b>PC: </b> Acer Swift 3 Ryzen 5 2020 Edition </li>
   	    <li><b>Browser: </b> Edge </li>
-	    <li><b>Code Editor(s):</b>Pyscripter, Visual studio 2019, CodeBlocks, IntelliJ</li>
+	    <li><b>Code Editor(s):</b>Pyscripter, Visual studio 2019, CodeBlocks, IntelliJ, Pycharm</li>
 	</ul>	
 </details>
 
