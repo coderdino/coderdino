@@ -16,7 +16,7 @@
 ### Languages/Game Engines I code/use nevertheless posted here:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code> <code><img height="25" src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" alt="Java"></code> <code><img height="25" src="https://th.bing.com/th/id/R149552db56d83912887736d23b9f7166?rik=rgrE5e5hNo0NOg&pid=ImgRaw" alt="C++"></code> <code><img height="25" src="https://dl1.cbsistatic.com/i/2017/05/17/12a7f6d2-4022-4885-8b33-6064eaa95ada/9db1614cd9ea8bab132df7b759bd78e3/imgingest-1077857239632445261.png" alt="C"></code> <code><img height="25" src="https://iconape.com/wp-content/png_logo_vector/c-sharp-c-logo.png" alt="C#"></code> <code><img height="25" src="https://th.bing.com/th/id/OIP.qCW__3jFWBUxPjEbCFMIDgHaHa?pid=ImgDet&rs=1" alt="HTML"></code> <code><img height="25" src="https://th.bing.com/th/id/Rb7c2e508920a1168b94dea8675fa311d?rik=AExOKTbxWa9t1A&pid=ImgRaw" alt="CSS"></code> <code><img height="25" src="https://i.stack.imgur.com/Mmww2.png" alt="Javascript"></code> <code><img height="25" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TQQL6ooA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://unity.com/logo-unity-web.png" alt="Unity c#"></code>
-
+e
 <details>	
   <br />
   <summary><b>Softwares/Hardware I use to get things done</b></summary>
