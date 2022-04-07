@@ -23,7 +23,7 @@ e
   	<ul>
   	    <li><b>OS:</b> Windows 11 Home </li>
 	    <li><b>PC: </b> Acer Swift 3 Ryzen 5 2020 Edition </li>
-  	    <li><b>Browser: </b> Edge </li>
+  	    <li><b>Browser: </b> Chrome </li>
 	    <li><b>Code Editor(s):</b>Pyscripter, Visual studio 2019, CodeBlocks, IntelliJ, Pycharm</li>
 	</ul>	
 </details>
