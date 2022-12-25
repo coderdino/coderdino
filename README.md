@@ -5,8 +5,8 @@
 
 </div>
 
-## 👀 I’m interested in Game development, badminton, swimming, food-tech and other stuff.
-## 🌱 I’m currently learning Android Development
+## 👀 Apart from my programming side, I play badminton & guitar. I also do Taekwondo
+## 🌱 Currently Learning Tensorflow
 ## 📫 How to reach me: Email me at vaibhavdachavaram06@gmail.com
 
 ### Languages/Game Engines that I code/use for projects hosted here: 
